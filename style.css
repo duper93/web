@@ -21,7 +21,7 @@ body
   height: 100vh;
   font-size: 17px;
   line-height: 1.6;
-  background-image: url(../caribou/acceuil.jpeg);
+  background-image: url(acceuil.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
